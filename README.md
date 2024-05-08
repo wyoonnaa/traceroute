@@ -29,5 +29,5 @@
 2) запустить (sudo python3) trace.py (ip или DNS-имя)
 
 ## 5. Примеры запуска
-![пример](/var/folders/x4/3070zn7x2m5dk990wy2g8rv00000gn/T/TemporaryItems/NSIRD_screencaptureui_FphX6T/Снимок экрана 2024-05-08 в 20.20.12.png)
-![пример](/var/folders/x4/3070zn7x2m5dk990wy2g8rv00000gn/T/TemporaryItems/NSIRD_screencaptureui_Z20hMh/Снимок экрана 2024-05-08 в 20.19.37.png)
+![пример]()
+![пример]()
