@@ -29,5 +29,6 @@
 2) запустить (sudo python3) trace.py (ip или DNS-имя)
 
 ## 5. Примеры запуска
-![пример]()
-![пример]()
+![пример](https://github.com/Yonochka/traceroute/blob/main/0.png)
+![пример](https://github.com/Yonochka/traceroute/blob/main/1.png)
+![пример](https://github.com/Yonochka/traceroute/blob/main/2.png)
